@@ -1,7 +1,7 @@
 # Epidemiology-constrained Seating Plan Problem
 This repository contains a set of files used during the testing phase. The computational environment
-created to solve this problem is described in a paper published in the
-*Foundations of Computing and Decision Sciences* journal.
+created to solve this problem is described in the [paper](https://github.com/JJC-code/Epidemiology-constrained-seating-plan-problem/blob/master/Epidemiology_constrained_seating_plan_problem.pdf) published in the
+[Foundations of Computing and Decision Sciences](http://fcds.cs.put.poznan.pl/fcds/) journal.
 The abstract and keywords of this paper are presented below.
 
 **Abstract.** The emergence of an infectious disease pandemic may result in the
